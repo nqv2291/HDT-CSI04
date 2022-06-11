@@ -23,6 +23,7 @@ All materials of the course will be provided in this repository.
 - IMPORTANT: Always finish your homework (lab exercises in Classin) before the next class.
 
 ## Useful resources
+- Class recordings: [Link Onedrive](https://husteduvn-my.sharepoint.com/:f:/g/personal/viet_nq194881_sis_hust_edu_vn/EnLUU0GO9VFFhJ9l6nFUmecBHCAnCBrMMlURdToYQr1PrQ?e=fq1S0V)
 - Website for sharpening your coding skills:
     - [Luyện Code](https://luyencode.net/)
     - [w3schools](https://www.w3schools.com/)
