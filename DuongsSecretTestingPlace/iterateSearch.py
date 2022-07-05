@@ -1,8 +1,4 @@
-list1 = range(1,1000000000)
+def fac(n):
+    return n*fac(n-1) if n > 1 else 1
 
-def findMe(ds,target):
-    for i,v in enumerate(ds):
-        if v == target:
-            return i
-        
-print(findMe(list1,9736249))
+print(fac(1))

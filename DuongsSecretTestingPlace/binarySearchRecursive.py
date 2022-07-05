@@ -1,8 +1,8 @@
-ds = range(1,1000000000)
+ds = [1,3,5,7,10]
 
 def binarySearch(list1,target,start,end):
     if start > end:
-        return "Not found"
+        return start if (list1[end] + list1[start])/2 <= target else end
     
     
     middle = int((start + end) / 2)
@@ -18,5 +18,5 @@ def binarySearch(list1,target,start,end):
         return binarySearch(list1,target,middle+1,end)
         
         
-print(binarySearch(ds,49006121,0,len(ds)))            
+print(binarySearch(ds,8,0,len(ds)))            
     
