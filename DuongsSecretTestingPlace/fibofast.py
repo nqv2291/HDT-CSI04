@@ -21,14 +21,6 @@ def fibo(n):
 #     else:
 #         return fibo(n-1) + fibo(n-2)
 
-sample = 359579325206583560961765665172189099052367214309267232255589801
-i = 1
-current = fibo(1)
-while sample > current:
-    current = fibo(i)
-    i+=1
-    
-print(1 if current == sample else 0)
-print(fibo(300))
+print(fibo(999))
 real_time = time.time() - start_time
 print(real_time)
