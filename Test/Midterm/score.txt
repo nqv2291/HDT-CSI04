@@ -1,0 +1,4 @@
+Thanh: 82
+Duong: 80
+Thanh Van: 68
+Truong Van: 32
