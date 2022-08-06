@@ -73,3 +73,12 @@ I think my answer will change as I age. Right now, I'm very young and I don't mi
 
 # What difficulties are there when finding a job in your country
 Well, simply because there are too many candidates yet too few positions in companies due to the economic recession. Almost everyone nowadays owns a degree or a related degree. Therefore, it is very difficult to select employee since qualifications are not held in such high regard anymore. Another thing is that, employee needs to be fluent in English to have a slight chance of promotion in an international company. It's the 21th century now, everyone needs to have some sort of certifications such as IELTS or TOEFL to prove their English fluency to the interviewer. Which again accounts for a big amount of time and money to get one.
+
+# Things that makes you happy
+There's a lot of things that make me happy. But I know for sure that being alone makes me feel the most comfortable. This is because I am a self-claimed introvert, I'm quite shy and I love spending time alone rather than being with other people. I know i'm kind of socially anxious but i'm trying my best to be cheerful with people around me. Besides, I feel really contented when I complete challenging tasks with all my effort, that's one of the most satisfying moments I've ever had in my life.
+
+# Things that make you sad
+To be honest, I feel downhearted when people do not listen to my own opinions or ignore them. It makes me feel disrespected and uncomfortable. Additionally, I also feel sorrowful when people start to gossip about me. There's nothing I can do to stop those rumours so I become helpless.
+
+# Things that make you angry
+I feel really mad when people disrepsect my privacy, like when they enter my room without knocking on the door or borrowing my stuff without my permission. I also feel annoyed when they ask questions related to my private life, this is because they are mean questions and they do not usually have good purposes so I always choose to keep quiet.
